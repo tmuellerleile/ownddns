@@ -1,0 +1,25 @@
+{
+  "name": "ownddns",
+  "version": "0.1.0",
+  "description": "Your own dynamic DNS service (node.js/AWS-based)",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "~0.9.8-pre.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmuellerleile/ownddns.git"
+  },
+  "keywords": [
+    "dyndns",
+    "ddns",
+    "dns",
+    "aws"
+  ],
+  "author": "Tobias Muellerleile <tobias@muellerleile.net>",
+  "license": "MIT"
+}
