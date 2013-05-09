@@ -4,7 +4,7 @@
   "description": "Your own dynamic DNS service (node.js/AWS-based)",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "~0.9.8-pre.9"
+    "aws-sdk": "~1.0.0"
   },
   "devDependencies": {},
   "scripts": {
