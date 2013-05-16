@@ -1,10 +1,10 @@
 # ownDDNS
 
-Your own dynamic DNS service (node.js/AWS-based)
+Your own dynamic DNS service (Node.js/AWS-based)
 
 ## Requirements
 
-- node.js
+- Node.js
 - one (or more) DNS domains (registered at a registrar with full DNS access)
 - active [Amazon Web Services (AWS)](http://aws.amazon.com/) account
 
